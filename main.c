@@ -4,6 +4,6 @@
 int
 main(int argc, char* argv[])
 {
-	printf("hell\n");
+	printf("hell hell\n");
 	return 0;
 }
